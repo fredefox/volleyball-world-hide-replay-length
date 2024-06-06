@@ -1,0 +1,14 @@
+{
+  "name": "Volleyball World Hide Replay Length",
+  "description": "Hides the replay length on tv.volleyballworld.com",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "css": ["main.css"],
+      "matches": [
+        "https://tv.volleyballworld.com/*"
+      ]
+    }
+  ]
+}

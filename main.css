@@ -1,0 +1,6 @@
+.card-meta__duration,
+.card-content__footer .badge:not(.badge-date,.card-meta__watchlist),
+.ds-seek-bar,
+.time {
+  visibility: hidden;
+}
