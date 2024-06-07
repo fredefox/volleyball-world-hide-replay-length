@@ -1,7 +1,7 @@
 .card-meta__duration,
 .card-content__footer .badge:not(.badge-date,.card-meta__watchlist),
-.card-progress,
 .ds-seek-bar,
+.card-progress__bar,
 .time {
   visibility: hidden;
 }
